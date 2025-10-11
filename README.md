@@ -1,4 +1,4 @@
-# `lazyvim-lolcrab`
+# `lazyvim-lolcrab` 💤🦀
 Add some color and excitement to your Neovim dashboard/startup screen! If you’ve come across any examples of full color, Neovim dashboard screens (a.k.a. ASCII art headers), and had any trouble figuring out how to accomplish that, this should help! My goal was to add the full color effects to the header art, but retain the center and footer from the standard Lazyvim installation. You can make additional changes to those sections if you prefer. 
 
 I’ve also included a few examples of Neovim ASCII  art, including the classic version by XXX. You can also make your own from scratch, or use an online ASCII art generator. 

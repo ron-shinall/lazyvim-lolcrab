@@ -3,7 +3,7 @@ Add some color and excitement to your Neovim dashboard/startup screen! If you’
 
 <img width="1321" height="1087" alt="lolcrab -s 0 01 -g warm dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/56e01634-7f0f-4d19-99af-7b517108a9ee" />
 
-I’ve also included a few examples of Neovim ASCII  art, including the classic version by XXX. You can also make your own from scratch, or use an online ASCII art generator. 
+I’ve also included a few examples of Neovim ASCII  art, including the classic version by [@sunjon](https://github.com/sunjon). You can also make your own from scratch, or use an online ASCII art generator. 
 
 **Note:** This does add some overhead to your Neovim startup, but I think it’s worth it :)
 
@@ -65,8 +65,8 @@ If you don't see what you expect to see, but instead see the detault Lazyvim scr
 - https://www.lazyvim.org/extras/ui/dashboard-nvim
 - https://github.com/mazznoer/lolcrab
 - https://github.com/busyloop/lolcat
-- Thanks to AAA for the most amazing NeoVim ASCII art!
-- Thanks to XXX, YYY, and ZZZ for providing a starting point!
+- Thanks to [@sunjon](https://github.com/sunjon) for the most amazing [NeoVim ASCII art](https://github.com/nvimdev/dashboard-nvim/wiki/Ascii-Header-Text)!
+- Thanks to [@glepnir]([https://github.com/glepnir](https://github.com/nvimdev/dashboard-nvim/issues/57#issuecomment-782663910)) and [@hexcowboy](https://github.com/nvimdev/dashboard-nvim/issues/435#issuecomment-2041713835) for providing a starting point!
 
 ## Contributing:
 If you have any suggestions or improvements, please open a pull request with as much detail as possible. 

@@ -19,19 +19,19 @@ I’ve also included a few examples of Neovim ASCII  art, including the classic 
 
 ## More detailed configuration instructions:
 1. [Install `lolcrab`](https://github.com/mazznoer/lolcrab?tab=readme-ov-file#installation)
-2. Copy `dashboard -nvim.lua` into your `nvim/lua/plugins` folder
+2. Copy `dashboard-nvim.lua` into your `nvim/lua/plugins` folder
 3. Copy any of the included ASCII art `.txt` files to your desired location
-4. Open `dashboard -nvim.lua` and set the following values:
-  a. `lolcrab_command` (for example “lolcrab” or “lolcat” or whatever executable you were using to process your ASCII art file)
-  b. `lolcrab_args` - check the docs for your executable of choice to pick the arguments you want to use. By default, it is set to "-g warm -s 0.01"
-  c. `header_ascii_file_path` - I chose to place the ASCII files in my nvim/lua/plugins folder, and this repo includes a few to get you started. Place your file(s) anywhere you want, and hardcode a direct path if you prefer
-5. Optional:
-  a. Change the theme to “hyper” instead of “doom”
-  b. Modify the center section to your liking
-  c. Modify the footer section to your liking
-6. Save your changes
-7. Quit Neovim
-8. Reopen Neovim and enjoy the beauty of your new creation!
+4. Open `dashboard-nvim.lua` and set the following values:
+    - `lolcrab_command` (for example “`lolcrab`” or “`lolcat`” or whatever executable you were using to process your ASCII art file)
+    - `lolcrab_args` - check the docs for your executable of choice to pick the arguments you want to use. By default, it is set to "`-g warm -s 0.01`"
+    - `header_ascii_file_path` - I chose to place the ASCII files in my `nvim/lua/plugins` folder, and this repo includes a few to get you started. Place your file(s) anywhere you want, and hardcode a direct path if you prefer
+6. Optional:
+    - Change the theme to “`hyper`” instead of “`doom`”
+    - Modify the `center` section to your liking
+    - Modify the `footer` section to your liking
+7. Save your changes
+8. Quit Neovim
+9. Reopen Neovim and enjoy the beauty of your new creation!
 
 ## Screenshots
 

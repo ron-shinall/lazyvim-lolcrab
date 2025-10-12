@@ -33,6 +33,9 @@ I’ve also included a few examples of Neovim ASCII  art, including the classic 
 8. Quit Neovim
 9. Reopen Neovim and enjoy the beauty of your new creation!
 
+## Troubleshooting
+If you don't see what you expect to see, but instead see the detault Lazyvim screen with the additional "_Uh oh...could not render header using lolcrab :(_" message, then either `lolcrab` is missing or the ASCII file is unreadable.
+
 ## Screenshots
 
 <img width="1321" height="1087" alt="lolcrab -s 0 01 -g cividis dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/7950f40e-a8d0-4a8b-8d3f-cc9b57e0ea17" />

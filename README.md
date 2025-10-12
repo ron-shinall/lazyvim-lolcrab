@@ -1,5 +1,7 @@
 # `lazyvim-lolcrab` 💤 🦀
-Add some color and excitement to your Neovim dashboard/startup screen! If you’ve come across any examples of full color, Neovim dashboard screens (a.k.a. ASCII art headers), and had any trouble figuring out how to accomplish that, this should help! My goal was to add the full color effects to the header art, but retain the center and footer from the standard Lazyvim installation. You can make additional changes to those sections if you prefer. 
+Add some color and excitement to your Neovim dashboard/startup screen! If you’ve come across any examples of full color, Neovim dashboard screens (a.k.a. ASCII art headers), and had any trouble figuring out how to accomplish that, this should help! My goal was to add the full color effects to the header art, but retain the center and footer from the standard Lazyvim installation. You can make additional changes to those sections if you prefer.
+
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g warm dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/56e01634-7f0f-4d19-99af-7b517108a9ee" />
 
 I’ve also included a few examples of Neovim ASCII  art, including the classic version by XXX. You can also make your own from scratch, or use an online ASCII art generator. 
 
@@ -30,6 +32,29 @@ I’ve also included a few examples of Neovim ASCII  art, including the classic 
 6. Save your changes
 7. Quit Neovim
 8. Reopen Neovim and enjoy the beauty of your new creation!
+
+## Screenshots
+
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g cividis dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/7950f40e-a8d0-4a8b-8d3f-cc9b57e0ea17" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g cool dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/3be24736-ba0a-4735-9289-27dafdcc4630" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g cubehelix dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/7f3b2e5c-d25f-4b2d-97be-08bb022fda57" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g fruits dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/a3c9a499-3cc6-4611-9a19-c3ce6eb71b45" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g inferno dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/d83a6ee9-33e7-4e67-be73-99bf009c94b9" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g lolcat dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/ee21b86c-a603-4637-95ea-496ec31dcfdb" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g magma dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/19ab66c6-d54b-4cd4-b026-d2c2bf81d279" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g plasma dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/0eda4cb3-e8d7-4ae6-b42f-07b414314767" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g rainbox dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/a4502dd6-9bb5-45ec-b2d9-93c8a1afe915" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g rd-yl-gn dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/707a9e38-ee5b-4b48-b66e-a1a6c04bf360" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g sinebow dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/4d0063ba-2090-4c23-b4ea-99ddd497b0db" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g spectral dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/6b73e125-0d8d-4fb9-a17b-a8fce62aab02" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g turbo dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/c7d77699-bfb8-4910-a8b9-30ccefb801f9" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g viridis dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/592b8e42-dd60-4b39-8489-82e43eda5c44" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g warm dashboard-neovim-1.txt" src="https://github.com/user-attachments/assets/56e01634-7f0f-4d19-99af-7b517108a9ee" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g warm dashboard-neovim-0.txt" src="https://github.com/user-attachments/assets/48994a41-1a48-4a29-b37d-779d5b23994b" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g warm dashboard-neovim-2.txt" src="https://github.com/user-attachments/assets/7438da4e-e61a-457c-afbd-a74600a2a88e" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g warm dashboard-neovim-3.txt" src="https://github.com/user-attachments/assets/3a87e196-6f80-4638-ba72-3d0627b64f2b" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g warm dashboard-neovim-4.txt" src="https://github.com/user-attachments/assets/5d1000dd-ec17-4717-82d9-11863f9e0a6c" />
+<img width="1321" height="1087" alt="lolcrab -s 0 01 -g warm dashboard-neovim-5.txt" src="https://github.com/user-attachments/assets/f3b563d0-c54b-4977-a7ed-f9de5e6b6f1c" />
 
 ## Acknowledgements, etc.
 - https://github.com/LazyVim/LazyVim

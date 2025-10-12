@@ -36,6 +36,11 @@ I’ve also included a few examples of Neovim ASCII  art, including the classic 
 ## Troubleshooting
 If you don't see what you expect to see, but instead see the detault Lazyvim screen with the additional "_Uh oh...could not render header using lolcrab :(_" message, then either `lolcrab` is missing or the ASCII file is unreadable.
 
+## Create your own ASCII art
+Here are just a couple of tools you can use:
+- [https://patorjk.com/software/taag/](https://patorjk.com/software/taag/#p=testall&f=Graffiti&t=NeoVim&x=none&v=4&h=4&w=80&we=false)
+- https://github.com/kimusan/pic2ascii
+
 ## Screenshots
 Note that the results are seeded on each run, so even if you use the same args your results will differ:
 

@@ -32,6 +32,7 @@ I’ve also included a few examples of Neovim ASCII  art, including the classic 
 8. Reopen Neovim and enjoy the beauty of your new creation!
 
 ## Acknowledgements, etc.
+- https://github.com/LazyVim/LazyVim
 - https://github.com/nvimdev/dashboard-nvim
 - https://www.lazyvim.org/extras/ui/dashboard-nvim
 - https://github.com/mazznoer/lolcrab
